@@ -1,0 +1,89 @@
+body {
+    background-color: lightgray;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    text-align: center;
+}
+
+h1 a {
+    color: black;
+}
+
+h1 a:hover {
+    color: navy;
+}
+
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.main-picture {
+    text-align: center;
+}
+
+.main-picture img {
+    width: 1000px;
+}
+
+.caption {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.caption a {
+    color: navy;
+}
+
+h5 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    text-align: center;
+}
+
+.biography {
+    margin-top: 40px;
+    list-style: none;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.biography-part1, .biography-part2, .biography-part3, .biography-part4 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    margin: 0 350px 25px 350px;
+    line-height: 1.5em;
+}
+
+.biography-part3 a {
+    color: navy;
+}
+
+blockquote {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    text-align: center;
+    border: 1px solid black;
+    padding: 25px;
+}
+
+footer {
+    margin-top: 40px;
+    padding-top: 10px;
+    height: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+
+footer a {
+    color: white;
+    text-decoration: none;
+}
